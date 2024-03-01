@@ -1,0 +1,989 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\wrappers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\wrappers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804D560F-F9BE-40BA-A3CF-F6E219509F8A}|ARAINV.API\\ARAINV.API.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804D560F-F9BE-40BA-A3CF-F6E219509F8A}|ARAINV.API\\ARAINV.API.csproj|solutionrelative:arainv.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\dtos\\products\\filterproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\dtos\\products\\filterproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\interfaces\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\interfaces\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\dtos\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\dtos\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\repository\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\repository\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\custom\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\custom\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\custom\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\custom\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\custom\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\custom\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\service\\base\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\service\\base\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\repository\\base\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\repository\\base\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\interfaces\\base\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\interfaces\\base\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\service\\base\\rservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\service\\base\\rservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\interfaces\\service\\base\\ireadbleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\interfaces\\service\\base\\ireadbleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\interfaces\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\interfaces\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\parameters\\requestparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\parameters\\requestparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\interfaces\\service\\base\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\interfaces\\service\\base\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\exceptions\\pagination\\pagerowminimumexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\exceptions\\pagination\\pagerowminimumexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\exceptions\\pagination\\pagerowmaximumexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\exceptions\\pagination\\pagerowmaximumexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\exceptions\\pagination\\pagerowindexnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\exceptions\\pagination\\pagerowindexnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\arainv.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\arainv.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\data\\entityconfigurations\\categoryentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\data\\entityconfigurations\\categoryentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\data\\arandadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\data\\arandadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804D560F-F9BE-40BA-A3CF-F6E219509F8A}|ARAINV.API\\ARAINV.API.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804D560F-F9BE-40BA-A3CF-F6E219509F8A}|ARAINV.API\\ARAINV.API.csproj|solutionrelative:arainv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804D560F-F9BE-40BA-A3CF-F6E219509F8A}|ARAINV.API\\ARAINV.API.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804D560F-F9BE-40BA-A3CF-F6E219509F8A}|ARAINV.API\\ARAINV.API.csproj|solutionrelative:arainv.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\validators\\authenticatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\validators\\authenticatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860699B9-FE6E-4BEF-8386-6B4A62D3341B}|ARAINV.Infrastructure.Common\\ARAINV.Infrastructure.Common.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure.common\\features\\regexextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860699B9-FE6E-4BEF-8386-6B4A62D3341B}|ARAINV.Infrastructure.Common\\ARAINV.Infrastructure.Common.csproj|solutionrelative:arainv.infrastructure.common\\features\\regexextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\extensions\\servicecollection\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\extensions\\servicecollection\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860699B9-FE6E-4BEF-8386-6B4A62D3341B}|ARAINV.Infrastructure.Common\\ARAINV.Infrastructure.Common.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure.common\\features\\encriptdecriptextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860699B9-FE6E-4BEF-8386-6B4A62D3341B}|ARAINV.Infrastructure.Common\\ARAINV.Infrastructure.Common.csproj|solutionrelative:arainv.infrastructure.common\\features\\encriptdecriptextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\interfaces\\service\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\interfaces\\service\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\middleware\\errorhandlemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\middleware\\errorhandlemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\entities\\base\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\entities\\base\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\dtos\\users\\usertokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\dtos\\users\\usertokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\validators\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\validators\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\validators\\updateproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\validators\\updateproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\validators\\deleteproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\validators\\deleteproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\extensions\\servicecollection\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\extensions\\servicecollection\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\extensions\\servicecollection\\dbctxfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\extensions\\servicecollection\\dbctxfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\extensions\\applicationbuilder\\defaultcfg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\extensions\\applicationbuilder\\defaultcfg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\dtos\\users\\authenticateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\dtos\\users\\authenticateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\dtos\\products\\deleteproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\dtos\\products\\deleteproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804D560F-F9BE-40BA-A3CF-F6E219509F8A}|ARAINV.API\\ARAINV.API.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{804D560F-F9BE-40BA-A3CF-F6E219509F8A}|ARAINV.API\\ARAINV.API.csproj|solutionrelative:arainv.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\exceptions\\api\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\exceptions\\api\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\base\\dbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\base\\dbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7534685-4C9B-44A7-878B-BFA115CB0AE1}|ARAINV.Core\\ARAINV.Core.csproj|solutionrelative:arainv.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|c:\\users\\dalbenjumea\\documents\\pruebaaranda\\arandaproducts\\arainv.infrastructure\\persistence\\base\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3A5C77-BAB4-4336-9265-14E5112B2765}|ARAINV.Infrastructure\\ARAINV.Infrastructure.csproj|solutionrelative:arainv.infrastructure\\persistence\\base\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Service\\ProductService.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Service\\ProductService.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAUwGkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:24:39.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CRUDService.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Service\\Base\\CRUDService.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Service\\Base\\CRUDService.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Service\\Base\\CRUDService.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Service\\Base\\CRUDService.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAlwF0AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T03:58:29.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Repository\\Base\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Repository\\Base\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Repository\\Base\\ReadRepository.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Repository\\Base\\ReadRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwDYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:46:09.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Custom\\Pagination.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Custom\\Pagination.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Custom\\Pagination.cs",
+              "RelativeToolTip": "ARAINV.Core\\Custom\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:26:46.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Custom\\PagedList.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Custom\\PagedList.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Custom\\PagedList.cs",
+              "RelativeToolTip": "ARAINV.Core\\Custom\\PagedList.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:14:23.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Repository\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Repository\\Base\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Repository\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Repository\\Base\\BaseRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:24:25.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\IProductService.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\IProductService.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:46:50.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Products\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\DTOs\\Products\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Products\\ProductDTO.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\DTOs\\Products\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T03:53:45.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ARAINV.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ARAINV.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAtwDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:26:29.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MetaData.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Custom\\MetaData.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Custom\\MetaData.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Custom\\MetaData.cs",
+              "RelativeToolTip": "ARAINV.Core\\Custom\\MetaData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T14:36:06.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Wrappers\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Wrappers\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Wrappers\\ApiResponse.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Wrappers\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T04:40:01.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilterProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Products\\FilterProductDTO.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\DTOs\\Products\\FilterProductDTO.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Products\\FilterProductDTO.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\DTOs\\Products\\FilterProductDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T16:51:41.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IReadbleService.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\Base\\IReadbleService.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\Base\\IReadbleService.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\Base\\IReadbleService.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\Base\\IReadbleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:05:10.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:32:41.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RService.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Service\\Base\\RService.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Service\\Base\\RService.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Service\\Base\\RService.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Service\\Base\\RService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:34:32.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Interfaces\\Base\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Interfaces\\Base\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Interfaces\\Base\\IReadRepository.cs",
+              "RelativeToolTip": "ARAINV.Core\\Interfaces\\Base\\IReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:44:39.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Interfaces\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Interfaces\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Interfaces\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "ARAINV.Core\\Interfaces\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T04:54:59.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Service\\UserService.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:25:56.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\IUserService.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T03:57:58.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:59:55.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Interfaces\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Interfaces\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Interfaces\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "ARAINV.Core\\Interfaces\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T04:53:46.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RequestParameter.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Parameters\\RequestParameter.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Parameters\\RequestParameter.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Parameters\\RequestParameter.cs",
+              "RelativeToolTip": "ARAINV.Core\\Parameters\\RequestParameter.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:11:43.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICRUDService.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\Base\\ICRUDService.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\Base\\ICRUDService.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\Base\\ICRUDService.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\Base\\ICRUDService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:05:06.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PageRowMinimumException.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Exceptions\\Pagination\\PageRowMinimumException.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Exceptions\\Pagination\\PageRowMinimumException.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Exceptions\\Pagination\\PageRowMinimumException.cs",
+              "RelativeToolTip": "ARAINV.Core\\Exceptions\\Pagination\\PageRowMinimumException.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:35:51.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PageRowMaximumException.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Exceptions\\Pagination\\PageRowMaximumException.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Exceptions\\Pagination\\PageRowMaximumException.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Exceptions\\Pagination\\PageRowMaximumException.cs",
+              "RelativeToolTip": "ARAINV.Core\\Exceptions\\Pagination\\PageRowMaximumException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:35:16.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PageRowIndexNotFound.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Exceptions\\Pagination\\PageRowIndexNotFound.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Exceptions\\Pagination\\PageRowIndexNotFound.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Exceptions\\Pagination\\PageRowIndexNotFound.cs",
+              "RelativeToolTip": "ARAINV.Core\\Exceptions\\Pagination\\PageRowIndexNotFound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:34:47.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ARAINV.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\ARAINV.Core.csproj",
+              "RelativeDocumentMoniker": "ARAINV.Core\\ARAINV.Core.csproj",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\ARAINV.Core.csproj",
+              "RelativeToolTip": "ARAINV.Core\\ARAINV.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-01T05:12:41.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Data\\EntityConfigurations\\CategoryEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Data\\EntityConfigurations\\CategoryEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Data\\EntityConfigurations\\CategoryEntityConfiguration.cs",
+              "RelativeToolTip": "ARAINV.Core\\Data\\EntityConfigurations\\CategoryEntityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:08:27.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ArandaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Data\\ArandaDbContext.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Data\\ArandaDbContext.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Data\\ArandaDbContext.cs",
+              "RelativeToolTip": "ARAINV.Core\\Data\\ArandaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:07:27.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegexExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure.Common\\Features\\RegexExtensions.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure.Common\\Features\\RegexExtensions.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure.Common\\Features\\RegexExtensions.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure.Common\\Features\\RegexExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T04:59:33.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IoC.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Extensions\\ServiceCollection\\IoC.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Extensions\\ServiceCollection\\IoC.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Extensions\\ServiceCollection\\IoC.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Extensions\\ServiceCollection\\IoC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:51:11.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthenticateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Validators\\AuthenticateValidator.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Validators\\AuthenticateValidator.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Validators\\AuthenticateValidator.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Validators\\AuthenticateValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T02:27:46.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ARAINV.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ARAINV.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:44:46.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.API\\Program.cs",
+              "RelativeDocumentMoniker": "ARAINV.API\\Program.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.API\\Program.cs",
+              "RelativeToolTip": "ARAINV.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:33:36.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EncriptDecriptExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure.Common\\Features\\EncriptDecriptExtensions.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure.Common\\Features\\EncriptDecriptExtensions.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure.Common\\Features\\EncriptDecriptExtensions.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure.Common\\Features\\EncriptDecriptExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T04:57:47.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ErrorHandleMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Middleware\\ErrorHandleMiddleware.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Middleware\\ErrorHandleMiddleware.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Middleware\\ErrorHandleMiddleware.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Middleware\\ErrorHandleMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T04:45:35.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Products\\CreateProductDTO.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\DTOs\\Products\\CreateProductDTO.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Products\\CreateProductDTO.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\DTOs\\Products\\CreateProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T03:54:18.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IJWTService.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\IJWTService.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\IJWTService.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\IJWTService.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Interfaces\\Service\\IJWTService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:37:44.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserTokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Users\\UserTokenDTO.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\DTOs\\Users\\UserTokenDTO.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Users\\UserTokenDTO.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\DTOs\\Users\\UserTokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T03:49:57.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T02:23:33.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "ARAINV.Core\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T02:17:38.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Entities\\Base\\EntityBase.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Entities\\Base\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Entities\\Base\\EntityBase.cs",
+              "RelativeToolTip": "ARAINV.Core\\Entities\\Base\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:29:58.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Validators\\CreateProductValidator.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Validators\\CreateProductValidator.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Validators\\CreateProductValidator.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Validators\\CreateProductValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T02:27:10.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Service\\JWTService.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Service\\JWTService.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Service\\JWTService.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Service\\JWTService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:36:59.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DeleteProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Validators\\DeleteProductValidator.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Validators\\DeleteProductValidator.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Validators\\DeleteProductValidator.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Validators\\DeleteProductValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T03:59:15.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Validators\\UpdateProductValidator.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Validators\\UpdateProductValidator.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Validators\\UpdateProductValidator.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Validators\\UpdateProductValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T03:59:26.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Extensions\\ServiceCollection\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Extensions\\ServiceCollection\\ServiceExtension.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Extensions\\ServiceCollection\\ServiceExtension.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Extensions\\ServiceCollection\\ServiceExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:32:15.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DBCtxFactory.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Extensions\\ServiceCollection\\DBCtxFactory.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Extensions\\ServiceCollection\\DBCtxFactory.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Extensions\\ServiceCollection\\DBCtxFactory.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Extensions\\ServiceCollection\\DBCtxFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T03:55:52.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DefaultCfg.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Extensions\\ApplicationBuilder\\DefaultCfg.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Extensions\\ApplicationBuilder\\DefaultCfg.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Extensions\\ApplicationBuilder\\DefaultCfg.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Extensions\\ApplicationBuilder\\DefaultCfg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T02:52:24.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T03:55:20.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AuthenticateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Users\\AuthenticateUserDTO.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\DTOs\\Users\\AuthenticateUserDTO.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Users\\AuthenticateUserDTO.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\DTOs\\Users\\AuthenticateUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T02:16:36.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpdateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Products\\UpdateProductDTO.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\DTOs\\Products\\UpdateProductDTO.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Products\\UpdateProductDTO.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\DTOs\\Products\\UpdateProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T03:53:09.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DeleteProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Products\\DeleteProductDTO.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\DTOs\\Products\\DeleteProductDTO.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Products\\DeleteProductDTO.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\DTOs\\Products\\DeleteProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T03:54:11.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Users\\UserDTO.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\DTOs\\Users\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\DTOs\\Users\\UserDTO.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\DTOs\\Users\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T02:16:34.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Entities\\User.cs",
+              "RelativeToolTip": "ARAINV.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T02:08:49.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ARAINV.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.API\\appsettings.json",
+              "RelativeToolTip": "ARAINV.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-01T02:37:11.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ApiException.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Exceptions\\Api\\ApiException.cs",
+              "RelativeDocumentMoniker": "ARAINV.Core\\Exceptions\\Api\\ApiException.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Core\\Exceptions\\Api\\ApiException.cs",
+              "RelativeToolTip": "ARAINV.Core\\Exceptions\\Api\\ApiException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T02:35:33.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DbFactory.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Base\\DbFactory.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Base\\DbFactory.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Base\\DbFactory.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Base\\DbFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:23:17.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Base\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ARAINV.Infrastructure\\Persistence\\Base\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\dalbenjumea\\Documents\\PruebaAranda\\ArandaProducts\\ARAINV.Infrastructure\\Persistence\\Base\\UnitOfWork.cs",
+              "RelativeToolTip": "ARAINV.Infrastructure\\Persistence\\Base\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:24:11.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

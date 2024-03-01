@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ARAINV.API.props" />
+</Project>

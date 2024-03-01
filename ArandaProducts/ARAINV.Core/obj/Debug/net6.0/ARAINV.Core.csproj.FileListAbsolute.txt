@@ -1,0 +1,14 @@
+C:\Users\dalbenjumea\Documents\PruebaAranda\ArandaProducts\ARAINV.Core\bin\Debug\net6.0\ARAINV.Core.deps.json
+C:\Users\dalbenjumea\Documents\PruebaAranda\ArandaProducts\ARAINV.Core\bin\Debug\net6.0\ARAINV.Core.dll
+C:\Users\dalbenjumea\Documents\PruebaAranda\ArandaProducts\ARAINV.Core\bin\Debug\net6.0\ARAINV.Core.pdb
+C:\Users\dalbenjumea\Documents\PruebaAranda\ArandaProducts\ARAINV.Core\obj\Debug\net6.0\ARAINV.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalbenjumea\Documents\PruebaAranda\ArandaProducts\ARAINV.Core\obj\Debug\net6.0\ARAINV.Core.AssemblyInfoInputs.cache
+C:\Users\dalbenjumea\Documents\PruebaAranda\ArandaProducts\ARAINV.Core\obj\Debug\net6.0\ARAINV.Core.AssemblyInfo.cs
+C:\Users\dalbenjumea\Documents\PruebaAranda\ArandaProducts\ARAINV.Core\obj\Debug\net6.0\ARAINV.Core.csproj.CoreCompileInputs.cache
+C:\Users\dalbenjumea\Documents\PruebaAranda\ArandaProducts\ARAINV.Core\obj\Debug\net6.0\ARAINV.Core.dll
+C:\Users\dalbenjumea\Documents\PruebaAranda\ArandaProducts\ARAINV.Core\obj\Debug\net6.0\refint\ARAINV.Core.dll
+C:\Users\dalbenjumea\Documents\PruebaAranda\ArandaProducts\ARAINV.Core\obj\Debug\net6.0\ARAINV.Core.pdb
+C:\Users\dalbenjumea\Documents\PruebaAranda\ArandaProducts\ARAINV.Core\obj\Debug\net6.0\ref\ARAINV.Core.dll
+C:\Users\dalbenjumea\Documents\PruebaAranda\ArandaProducts\ARAINV.Core\obj\Debug\net6.0\ARAINV.Core.csproj.AssemblyReference.cache
+C:\Users\dalbenjumea\Documents\PruebaAranda\ArandaProducts\ARAINV.Core\bin\Debug\net6.0\ARAINV.Core.runtimeconfig.json
+C:\Users\dalbenjumea\Documents\PruebaAranda\ArandaProducts\ARAINV.Core\obj\Debug\net6.0\ARAINV.Core.genruntimeconfig.cache

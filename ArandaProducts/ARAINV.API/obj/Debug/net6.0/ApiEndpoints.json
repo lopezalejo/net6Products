@@ -1,0 +1,108 @@
+[
+  {
+    "ContainingType": "ARAINV.API.Controllers.AuthController",
+    "Method": "Authenticate",
+    "RelativePath": "api/Auth/Authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authenticate",
+        "Type": "ARAINV.Infrastructure.DTOs.Users.AuthenticateUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ARAINV.API.Controllers.ProductController",
+    "Method": "GetProducts",
+    "RelativePath": "api/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ARAINV.API.Controllers.ProductController",
+    "Method": "Post",
+    "RelativePath": "api/Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "ARAINV.Infrastructure.DTOs.Products.CreateProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ARAINV.API.Controllers.ProductController",
+    "Method": "Put",
+    "RelativePath": "api/Product",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "ARAINV.Infrastructure.DTOs.Products.UpdateProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ARAINV.API.Controllers.ProductController",
+    "Method": "Delete",
+    "RelativePath": "api/Product",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "ARAINV.Infrastructure.DTOs.Products.DeleteProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ARAINV.API.Controllers.ProductController",
+    "Method": "GetProducts",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ARAINV.API.Controllers.ProductController",
+    "Method": "GetProductsPaged",
+    "RelativePath": "api/Product/GetProductsPaged",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "ARAINV.Infrastructure.DTOs.Products.FilterProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
